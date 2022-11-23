@@ -1,6 +1,9 @@
 # ECE444-F2022-Lab6
 Introduction to Test-Driven Development (ECE444)
 
+## Link to test case I added to our group project (Part 2 of Lab)
+[GitHub Link](https://github.com/ECE444-2022Fall/project-1-web-application-design-education-pathways-group-13-outliers/commit/d67ff8d9bff6421224a8d3cab9cf5569059be84f)
+
 ## Pros and Cons of Test-Driven Development (Part 3 of Lab)
 A pro of TDD is it forces you as a developer to think of your project at a higher level, about the arctitechture, 
 possible features, and what you want the user experience to be like BEFORE you even start writing the code. By writing the 
